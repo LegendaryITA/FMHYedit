@@ -109,6 +109,7 @@
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
 * [AyraProject](https://t.me/AyraProject)
 * [Modules Repositor](https://t.me/modulesrepo)
+* [RBMods](https://t.me/RBMods)
 * [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
 
 ***
